@@ -44,3 +44,11 @@ for i in range(10):
    i = i+1
    Fungsi range() biasanya digunakan sebagai counter pada perulangan bentuk For. range(10) artinya menampikan perulangan sebanyak 10 elemen.'<p>'
 ![Gambar 3](screenshoot/s3.JPG)
+4. Latihan 4'<p>'
+rumus coding
+a = input("Masukkan N: ")
+
+for i in range(1, int(a)+1):
+ print (i, end=" ")'<p>'
+ ![Gambar 4](screenshoot/s4.JPG)
+ sekian tugas ini saya buat'<p>'
