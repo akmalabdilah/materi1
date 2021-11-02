@@ -24,4 +24,12 @@ if(nilai > 10):
 sembilan lebih besar dari angka tujuh
 
 Process finished with exit code 0'<p>'
+2. Latihan 2'<p>'
+misi kita adalah mengurutkan data yang ada pada array list variabel luas dari urutan acak menjadi urruan dari nilai terkecil ke terbesar.
 
+Untuk itu kita bisa gunakan fungsi sort(), dengan menggunakan kode program luas.sort(). Tidak perlu ada parameter yang kita tulis dalam fungsi sort(). 
+
+Setelah itu kita ingin buktikan, kita coba tampilkan hasil dari pengurutan tersebut menggunakan fungsi print().
+
+Setelah ditampilkan kita bisa lihat bahwa data di dalam array list python kini sudah terurut dari nilai terkecil ke nilai terbesar.'<p>'
+![Gambar 2](screenshoot/s2.JPG)
